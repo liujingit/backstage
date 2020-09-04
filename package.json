@@ -26,7 +26,7 @@
     "webpack-dev-server": "2.9.7"
   },
   "dependencies": {
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "prop-types": "15.6.0",
     "rc-pagination": "1.15.1",
     "react": "^16.2.0",
